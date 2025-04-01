@@ -1,0 +1,36 @@
+.textPreset_1{
+    font-size: var(--font-size-1);
+    font-weight: 700;
+    line-height: var(--line-height-default);
+    letter-spacing: var(--letter-space-1);
+}
+.textPreset_2{
+    font-size: var(--font-size-2);
+    font-weight: 700;
+    line-height: var(--line-height-default);
+    letter-spacing: var(--letter-space-1);
+}
+.textPreset_3{
+    font-size: var(--font-size-3);
+    font-weight: 600;
+    line-height: var(--line-height-default);
+    letter-spacing: var(--letter-space-2);
+}
+.textPreset_4{
+    font-size: var(--font-size-4);
+    font-weight: 500;
+    line-height: var(--line-height-default);
+    letter-spacing: var(--letter-space-3);
+}
+.textPreset_5{
+    font-size: var(--font-size-4);
+    font-weight: 400;
+    line-height: var(--line-height-default);
+    letter-spacing: var(--letter-space-3);
+}
+.textPreset_6{
+    font-size: var(--font-size-5);
+    font-weight: 400;
+    line-height: var(--line-height-default);
+    letter-spacing: var(--letter-space-3);
+}
